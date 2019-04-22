@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-video-stream",
+  "version": "1.0.0",
+  "description": "video streaming using node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tohammad/nodejs-video-stream.git"
+  },
+  "keywords": [
+    "video",
+    "streaming",
+    "video",
+    "nodejs"
+  ],
+  "author": "Hammad Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tohammad/nodejs-video-stream/issues"
+  },
+  "homepage": "https://github.com/tohammad/nodejs-video-stream#readme"
+}
